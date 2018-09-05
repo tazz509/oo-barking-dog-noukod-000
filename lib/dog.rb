@@ -12,4 +12,3 @@ def name=(name)
   def bark
     puts "woof!"
     end
-
